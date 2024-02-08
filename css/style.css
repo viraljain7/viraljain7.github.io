@@ -113,7 +113,7 @@ h6 {
 
 #content-6 {
   /* background-image: url(../img/bg5.jpg);  */
-  background: #232434;
+  background: rgb(11, 117, 121);
 }
 
 @media screen and (min-width: 55em) {
